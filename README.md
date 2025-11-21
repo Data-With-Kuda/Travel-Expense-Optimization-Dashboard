@@ -133,8 +133,3 @@ This dashboard can be integrate with:
 
 - Power BI community for visualization best practices
 - uofl msba lecturer, Lance
-
-
-
-### Quick Start
-1. Clone the repository
